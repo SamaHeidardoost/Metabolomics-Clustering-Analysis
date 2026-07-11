@@ -85,18 +85,12 @@ Although OPTICS and HDBSCAN produced higher Silhouette Scores, their agreement w
 ## Repository Structure
 
 ```
-MTBLS79-Clustering-Analysis
-│
-├── notebook/
-│   └── MTBLS79_Clustering_Analysis.ipynb
-│
-├── figures/
-│
-├── report/
+Metabolomics-Clustering-Analysis
 │
 ├── README.md
-│
-└── requirements.txt
+├── LICENSE
+├── MTBLS79_Clustering_Analysis.ipynb
+└── Metabolomics_Clustering_Report.pdf
 ```
 
 ---
