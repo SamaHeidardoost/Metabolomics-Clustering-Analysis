@@ -1,5 +1,7 @@
 # MTBLS79 Metabolomics Clustering Analysis
 
+A comparative study of eleven clustering algorithms on the MTBLS79 metabolomics dataset using PCA, UMAP, and multiple clustering evaluation metrics.
+
 ## Project Overview
 
 This project presents a comprehensive unsupervised learning analysis of the MTBLS79 metabolomics dataset. The objective was to investigate the underlying biological structure of the samples using multiple clustering algorithms and dimensionality reduction techniques.
